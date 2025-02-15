@@ -32,7 +32,7 @@ Os principais elementos de diversão e desafio estão na sua simplicidade, que c
 ---
 
 ## 4. Tela Digital do Jogo  
-![pong_documento](assets/space_pong.jpg)
+![pong_documento](assets/space_pong)
 
 **Como o concept foi adaptado para o formato digital?**
 O concept foi transformado em uma versão digital utilizando elementos visuais disponíveis no Canva, imagens da internet, editores de imagem e um gerador de imagens com inteligência artificial. 
